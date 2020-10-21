@@ -17,10 +17,12 @@ function coming develop
 ###Rendering system
 
 function complate
-1. 
+1. set_background v0.1
+2. render_update v0.1
 
 function coming develop
 1. loaderModel v0.0
 2. loaderTexture v0.0
+
 
 
