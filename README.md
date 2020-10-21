@@ -19,10 +19,13 @@ function coming develop
 function complate
 1. set_background v0.1
 2. render_update v0.1
-
+3. loaderModel v0.1
+4. loaderTexture v0.1
 function coming develop
-1. loaderModel v0.0
-2. loaderTexture v0.0
+1. loaderModel v0.2 support multi loader model
+2. set model position 
+3. rotation model
+4. camera 
 
 
 
